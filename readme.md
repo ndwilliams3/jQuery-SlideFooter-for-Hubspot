@@ -6,7 +6,8 @@ Instructions for Hubspot CMS
   The ModuleID can be found by locating the the id in the source code.
   The ModuleID is the 6 digit code at the end of the id.
   Example: 
-  <div align="center" id="IngeniMailSubscribeContainer_123456" class="IngeniMailSubscribeContainer">
+
+    <div align="center" id="IngeniMailSubscribeContainer_123456" class="IngeniMailSubscribeContainer">
   Module ID = 123456
   
   OR
@@ -14,7 +15,7 @@ Instructions for Hubspot CMS
   In the url of the edit module link.
   right click on "edit" and click copy link location. Paste into the address bar or text editor to see the url. The ModuleID is the 6 digit code at the end.
   Example:
-  javascript:%20HubSpot.CMS.ShowConfigureSideBarModule(123456,'')
+    javascript:%20HubSpot.CMS.ShowConfigureSideBarModule(123456,'')
   Module ID = 123456
   
 
