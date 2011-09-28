@@ -49,7 +49,7 @@ Add options to initialization Code Snippet
                 style: {
                     width: '95%', // footer width
                     height: '70px', //footer height
-                    minWidth: '960px', //footer minimum width
+                    minWidth: '960px' //footer minimum width
                 }
             });
         });
@@ -101,7 +101,7 @@ Add initialization script with options
                 style: {
                     width: '95%', // footer width
                     height: '70px', //footer height
-                    minWidth: '960px', //footer minimum width
+                    minWidth: '960px' //footer minimum width
                 }
             });
         });
