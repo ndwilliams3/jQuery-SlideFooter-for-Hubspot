@@ -5,9 +5,10 @@ Instructions for Hubspot CMS
 2. Get the Module ID number of the Subscription module.
   The ModuleID can be found by locating the the id in the source code.
   The ModuleID is the 6 digit code at the end of the id.
-  Example: 
+  Example:
 
     <div align="center" id="IngeniMailSubscribeContainer_123456" class="IngeniMailSubscribeContainer">
+    
   Module ID = 123456
   
   OR
@@ -80,7 +81,7 @@ can be added inline
     code goes her
     </style>
     
-or added to your custom.css file
+or add to your custom.css file
 
 Add initialization script with options
 
