@@ -1,0 +1,112 @@
+    #footerSlideContainer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        margin: 0 !important;
+        width: 100% !important;
+        background: none;
+    }
+    #footerSlideContainer #footerSlideButton {
+        display: none;
+        position: absolute;
+        top: -30px;
+        right: 0;
+        width: 50px;
+        height: 15px;
+        border: none;
+        cursor: pointer;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    #footerSlideContainer .footerSlide {
+        position: relative;
+        border: none;
+        background: none;
+        margin: 0 auto;
+        z-index: 10000;
+    }
+    #footerSlideContainer .footerSlideContent.block {
+        display: none;
+        width: 100% !important;
+        bottom: 0;
+        border: none!important;
+        position: relative;
+        margin: 0!important; 
+        /*add shadow*/
+        -moz-box-shadow: 0px 0px 15px #888;
+    	-webkit-box-shadow: 0px 0px 15px #888;
+        box-shadow: 0px 0px 15px #888;
+        z-index: 10000;
+    }
+    #footerSlideContainer .block .footerSlideText.pad {
+        margin: 0!important;
+        padding: 5px 10px 0!important;
+        float: left;
+    }
+    #footerSlideContainer .block .footerSlideCTA.pad {
+            float: right;
+    }
+    #footerSlideContainer .footerSlideText h3 {
+        text-align: left!important;
+        display: block!important;
+        font-size: 13px!important;
+        margin: 0 0 5px 0!important;
+        padding: 0!important;
+        line-height: 16px!important;
+        height: 16px!important;
+        font-weight: bold!important;
+        border-bottom: none!important;
+    }
+    #footerSlideContainer .footerSlideText .IngeniMailSubscribeContainer {
+        margin: 0!important;
+        padding: 0!important;
+    }
+    #footerSlideContainer .footerSlideText .IngeniMailSubscribeContainer div {
+        float: left!important;
+    }
+    #footerSlideContainer .footerSlideText .IngeniMailSubscribeContainer input.IngeniMailSubscribeEmailInput {
+        float: left!important;
+        font-size: 13px!important;
+        width: 150px!important;
+        margin: 0px 10px 0 0!important;
+        padding: 0 5px!important;
+        line-height: 30px!important;
+        height: 30px!important;
+        border: 1px solid#ccc!important;
+    }
+    #footerSlideContainer .footerSlideText .IngeniMailSubscribeContainer input.IngeniMailSubscribeButton {
+        border: 1px solid !important;
+    	float: left !important;
+    	font-size: 13px !important;
+    	height: 32px !important;
+    	line-height: 32px !important;
+    	margin: 0 !important;
+    	outline: 0 none !important;
+    	padding: 0 5px !important;
+    	width: auto !important;
+    	cursor: pointer;
+    }
+    #footerSlideContainer .footerSlideText .hs_followme {
+        padding: 0!important;
+    }
+    #footerSlideContainer .footerSlideText .hs_followme div {
+        margin: -10px!important;
+    }
+    #footerSlideContainer .footerSlideText .hs_followme a {
+        margin: 0px!important;
+    }
+    #footerSlideContainer .footerSlideText .footer-hs-cta-wrapper {
+        display: block!important;
+        float: right!important;
+        margin: 0!important;
+        padding: 0!important;
+    }
+    #footerSlideContainer .footerSlideText .hs-cta-wrapper {
+        display: block!important;
+        float: right!important;
+        margin: 0!important;
+    }
+    #footerSlideContainer .footerSlide .footerSlideText .CMSConfigureBox {
+        position: absolute;
+        top: -25px;
+    }
