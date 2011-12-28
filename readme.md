@@ -91,8 +91,8 @@ or add to your custom.css file
 Add initialization script with options
 
     <script type="text/javascript">
-        $j(document).ready(function() {
-            $j.hubtoolbar({
+        $(document).ready(function() {
+            $.hubtoolbar({
                 subscribeID : '123456', //The subscription Module ID
                 portal : '63683', //Your Portal ID
                 follow: false, // to show follow links, change to true
