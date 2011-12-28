@@ -62,7 +62,7 @@ code can be added inline by adding a html/javascript module. be sure to check th
 
 1. code can be added inline by adding a html/javascript module. be sure to check the boxes to hide title and styling. (shows on page or blog)
 2. or html head section on page properties (shows on page or blog)
-3. or in head section at settings>website settings (shows on entire site)
+
 
 Add jQuery if not already using
 
