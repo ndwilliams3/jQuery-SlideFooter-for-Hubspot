@@ -29,7 +29,7 @@ Subscription module is required for slide footer.
 
 A CTA can be added to the footer.
 Create an new CTA. the CTA should be between 40px and 80px in height. The CTA can be turned into an A/B Test group to have the CTA change between pageviews.
-Click the Export code button and copy only the CTA GUID. in can be found in serveral area of the code. look for this format 
+Click the Export code button and copy only the CTA GUID. it can be found in serveral area of the code. look for this format 
 hs-cta-wrapper-00000000-0000-0000-0000-000000000000
 hs-cta-00000000-0000-0000-0000-000000000000
 the GUID in the alpha numeric string in the format 
