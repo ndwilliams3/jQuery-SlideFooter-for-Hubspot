@@ -39,8 +39,8 @@ GUID = 00000000-0000-0000-0000-000000000000
 Add options to initialization Code Snippet
 -------------------
     <script type="text/javascript">
-        $j(document).ready(function() {
-            $j.hubtoolbar({
+        $(document).ready(function() {
+            $.hubtoolbar({
                 subscribeID : '123456', //The subscription Module ID
                 portal : '63683', //Your Portal ID
                 follow: false, // to show follow links, change to true
